@@ -16,7 +16,7 @@ well.  I have also posted these models to
 To render these models, you will need to download
 [OpenSCAD](http://www.openscad.org), load up the `snesp.scad` and
 `snesp-back.scad` files, then compile and render them.  A makefile has been
-provided whose defualt target is to render the front and back case models,
+provided whose default target is to render the front and back case models,
 producing two STL files.  Note that the full render time could take a few
 hours.  The resulting STL files will need to be repaired using a program such
 as [netfabb](http://www.netfabb.com) to close any gaps that are likely to be
